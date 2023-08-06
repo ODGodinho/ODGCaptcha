@@ -1,4 +1,5 @@
 {
+    "conventionalCommits.scopes": [ "Captcha" ],
     "typescript.preferences.importModuleSpecifier": "non-relative",
     "vitest.commandLine": "yarn test:watch",
     "vitest.enable": true

@@ -1,3 +1,3 @@
-import { exampleStanleyTemplate } from "./example";
-
-exampleStanleyTemplate();
+export * from "./schemas";
+export * from "./interfaces";
+export * from "./enums";
